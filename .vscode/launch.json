@@ -1,0 +1,78 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CFletcherProject12",
+            "request": "launch",
+            "mainClass": "CFletcherProject12",
+            "projectName": "CFletcherProject12_d9d9fd4e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CFletcherProject11",
+            "request": "launch",
+            "mainClass": "CFletcherProject11",
+            "projectName": "CFletcherProject11_f23826ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area1",
+            "request": "launch",
+            "mainClass": "Area1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CFletcherProject3",
+            "request": "launch",
+            "mainClass": "CFletcherProject3"
+        },
+        {
+            "type": "java",
+            "name": "Launch CFletcherProject4",
+            "request": "launch",
+            "mainClass": "CFletcherProject4"
+        },
+        {
+            "type": "java",
+            "name": "Launch CSCI251ProjOne",
+            "request": "launch",
+            "mainClass": "CSCI251ProjOne"
+        },
+        {
+            "type": "java",
+            "name": "Launch CSCI463ProjectTwo",
+            "request": "launch",
+            "mainClass": "CSCI463ProjectTwo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam1JAVA",
+            "request": "launch",
+            "mainClass": "Exam1JAVA"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise01_01",
+            "request": "launch",
+            "mainClass": "Exercise01_01"
+        },
+        {
+            "type": "java",
+            "name": "Launch MySort",
+            "request": "launch",
+            "mainClass": "MySort"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "Welcome"
+        }
+    ]
+}
